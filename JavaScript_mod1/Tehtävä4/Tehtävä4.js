@@ -1,4 +1,4 @@
-
+'use strict';
 
 let name = prompt('What is your name?'),number = Math.floor(Math.random()*4)+1;
 console.log(number)
